@@ -21,7 +21,7 @@
     <div class="row">
         <div class="col-sm-6">
             <div class="form-group">
-              <label for="kota_asal">Kota Asal:</label>
+              <label for="kota_asal">Kota Pengirim:</label>
               <select class="browser-default custom-select" name="kota_asal" required>
 
                 <?php if(empty($input['kota_asal'])): ?>
