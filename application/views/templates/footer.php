@@ -1,3 +1,4 @@
+<footer>Tes Footer</footer>
 <script>
 $(document).ready(function() {
 $('.mdb-select').materialSelect();
