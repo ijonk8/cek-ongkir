@@ -15,7 +15,7 @@
 
 <div class="container-fluid">
 <br>
-  <h2>Cek Ongkir</h2>
+  <h2>Cek API Raja Ongkir </h2>
   <?= form_open('') ?>
   <!-- <form action="/action_page.php"> -->
     <div class="row">
