@@ -22,6 +22,6 @@
 
   <nav class="navbar navbar-expand-lg navbar-light bg-dark">
     <div class="container">
-      <a class="navbar-brand text-white" href="<?= site_url() ?>">API Raja Ongkir</a>
+      <a class="navbar-brand text-white" href="<?= site_url() ?>">TES API Raja Ongkir</a>
     </div>
   </nav>
